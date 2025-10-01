@@ -10,4 +10,4 @@ Project ini saya buat dengan mengikuti tutorial dari YouTube channel [Sandhika G
 ## 🚀 Cara Menjalankan
 1. Clone repository ini
    ```bash
-   git clone https://github.com/username/wedding-invitation.git
+   git clone https://github.com/Wisanggenieee/wedding-invitation.git
